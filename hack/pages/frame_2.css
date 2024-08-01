@@ -1,0 +1,8 @@
+.frame-2 .vector {
+  width: 24.2px;
+  height: 19.4px;
+}
+.frame {
+  display: flex;
+  box-sizing: border-box;
+}

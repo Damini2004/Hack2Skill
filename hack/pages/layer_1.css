@@ -1,0 +1,8 @@
+.layer-1 .vector {
+  width: 25.4px;
+  height: 25.2px;
+}
+.layer-1 {
+  display: flex;
+  box-sizing: border-box;
+}

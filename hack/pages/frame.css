@@ -1,0 +1,18 @@
+.frame .vector {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.frame .container {
+  position: relative;
+  width: 11.1px;
+  height: 9.1px;
+}
+.frame {
+  display: flex;
+  padding: 4.2px 2.2px 6px 6px;
+  box-sizing: border-box;
+}

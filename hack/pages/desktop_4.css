@@ -1,0 +1,160 @@
+.desktop-4 .agri-tech {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.desktop-4 .image-2 {
+  background: url('../assets/images/image_2.png');
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 79px;
+  height: 85px;
+}
+.desktop-4 .logo {
+  position: relative;
+  margin: 0 85.4px 50px 0;
+  display: flex;
+  padding-top: 21px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 .image-15 {
+  border-radius: 50px;
+  background: url('../assets/images/image_15.png') 50% / cover no-repeat;
+  margin: 25px 255px 74px 0;
+  width: 419px;
+  height: 707px;
+}
+.desktop-4 .contact-us {
+  margin-bottom: 77px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Unna';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-4 .name {
+  overflow-wrap: break-word;
+  font-family: 'Unna';
+  font-weight: 700;
+  font-size: 32px;
+  color: #9A9898;
+}
+.desktop-4 .component-1 {
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 71px;
+  padding: 7px 10px 8px 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 .name-1 {
+  overflow-wrap: break-word;
+  font-family: 'Unna';
+  font-weight: 700;
+  font-size: 32px;
+  color: #9A9898;
+}
+.desktop-4 .component-2 {
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 50px;
+  padding: 7px 10px 8px 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 .name-2 {
+  overflow-wrap: break-word;
+  font-family: 'Unna';
+  font-weight: 700;
+  font-size: 32px;
+  color: #9A9898;
+}
+.desktop-4 .component-3 {
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 71px;
+  padding: 21.9px 10px 104.1px 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 .submit {
+  margin-right: 4.1px;
+  overflow-wrap: break-word;
+  font-family: 'Unna';
+  font-weight: 700;
+  font-size: 20px;
+  color: #40B453;
+}
+.desktop-4 .arrow-1 {
+  background: #40B453;
+  margin: 12px 0 9px 0;
+  width: 17.5px;
+  height: 0px;
+}
+.desktop-4 .button {
+  border-radius: 45px;
+  background: linear-gradient(180deg, #D9D9D9);
+  position: relative;
+  margin: 0 7.7px 54px 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 14px 0 15px 0;
+  width: 374.3px;
+  box-sizing: border-box;
+}
+.desktop-4 .ac-1840-c-3441-fa-178-a-8-a-12-ef-905-b-1 {
+  background: url('../assets/images/ac_1840_c_3441_fa_178_a_8_a_12_ef_905_b_1.png') 50% / cover no-repeat;
+  margin-top: 14px;
+  width: 120px;
+  height: 95px;
+}
+.desktop-4 .df-39-f-29-a-4-b-5-f-02-a-62-f-16-eb-9008-e-141 {
+  background: url('../assets/images/df_39_f_29_a_4_b_5_f_02_a_62_f_16_eb_9008_e_141.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 134px;
+  height: 109px;
+}
+.desktop-4 .a-332-d-2-f-6-d-41-f-324-d-39394-a-336-da-7-b-0311 {
+  background: url('../assets/images/a_332_d_2_f_6_d_41_f_324_d_39394_a_336_da_7_b_0311.png') 50% / cover no-repeat;
+  margin-top: 14px;
+  width: 85px;
+  height: 95px;
+}
+.desktop-4 .container-2 {
+  margin: 0 23px 0 10px;
+  display: flex;
+  flex-direction: row;
+  width: 359px;
+  box-sizing: border-box;
+}
+.desktop-4 .container {
+  display: flex;
+  flex-direction: column;
+  width: 392px;
+  box-sizing: border-box;
+}
+.desktop-4 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 {
+  background: linear-gradient(117.08deg, #40B453 1.16%, #DEE05C 99.3%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 63px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

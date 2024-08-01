@@ -1,0 +1,11 @@
+.property-1-default-1 .contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  display: flex;
+  box-sizing: border-box;
+}
